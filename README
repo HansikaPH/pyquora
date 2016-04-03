@@ -1,0 +1,45 @@
+============
+scrape quora
+============
+
+A Python module to fetch and parse data from Quora user profiles.
+
+Installation
+============
+
+Install using pip:
+
+    pip install scrape_quora
+
+Usage
+=====
+
+    from scrape_quora import Scrape_Quora
+
+    name = Scrape_Quora.get_name('Hansika-Hewamalage')
+
+Features
+========
+
+Currently implemented
+---------------------
+
+Retrieve
+* Profile Name
+* URL
+* Profile Picture Link
+* No of Questions
+* No of Answers
+* No of Followers
+* No of Following
+* No of Edits
+
+
+Todo
+----
+
+Retrieve
+* Facebook Profile Link
+* Twitter Link
+* Wordpress Link
+* LinkedIn Link
