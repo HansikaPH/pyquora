@@ -25,13 +25,21 @@ Currently implemented
 ---------------------
 
 Retrieve
+
 * Profile Name
+
 * URL
+
 * Profile Picture Link
+
 * No of Questions
+
 * No of Answers
+
 * No of Followers
+
 * No of Following
+
 * No of Edits
 
 
@@ -39,7 +47,11 @@ Todo
 ----
 
 Retrieve
+
 * Facebook Profile Link
+
 * Twitter Link
+
 * Wordpress Link
+
 * LinkedIn Link
